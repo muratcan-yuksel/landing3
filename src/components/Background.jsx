@@ -5,7 +5,7 @@ import "../style/style.css";
 const Background = () => {
   return (
     <div>
-      <div>
+      <div id="imgContainer">
         <img id="back" src={image} alt="" />
       </div>
     </div>

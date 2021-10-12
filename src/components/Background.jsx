@@ -7,6 +7,7 @@ const Background = () => {
     <div>
       <div id="imgContainer">
         <img id="back" src={image} alt="" />
+        <div className="text">lolooooo</div>
       </div>
     </div>
   );
